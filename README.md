@@ -18,7 +18,7 @@ A simple and interactive To-Do List web app built using **HTML**, **CSS**, and *
 
 ## 📸 Screenshots
 
-> _Add a screenshot here if you'd like. You can use `![screenshot](path/to/image)` format._
+![To Do App Screenshot](https://github.com/kunaalshil-max/todo-App/blob/main/To%20Do%20App.png?raw=true)
 
 ## 📁 Folder Structure
 
